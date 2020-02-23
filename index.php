@@ -1,5 +1,12 @@
 <?php
- ?>
+
+  $conn = mysqli_connect('localhost', 'dion', 'password', 'php_blog');
+
+  if(!$conn){
+    echo 'Connection error: ' . mysqli_connect_error();
+  }
+
+?>
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">

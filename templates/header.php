@@ -29,8 +29,8 @@
       form{
         max-width: 500px;
         text-align: center;
-        margin: 50px auto;
-        padding: 50px;
+        margin: 25px auto;
+        padding: 25px;
       }
       label{
         font-weight: bold !important;
