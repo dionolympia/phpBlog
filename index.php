@@ -12,10 +12,12 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Templating Header & Footer - Practice Exercise</title>
+    <title>BLOG</title>
   </head>
 
   <body class = "grey lighten-4">
     <?php include('./templates/header.php'); ?>
+    <main>
+    </main>
     <?php include('./templates/footer.php') ?>
 </html>

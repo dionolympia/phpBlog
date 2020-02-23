@@ -1,8 +1,10 @@
+
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Header</title>
+    <title>BLOG</title>
 
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -42,10 +44,7 @@
   <body>
     <nav class="z-depth-0">
       <div class="nav-wrapper white">
-        <a href="#" class="brand-logo beige-text center">Templating a Header & Footer</a>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="#" class="btn beige-color">ADD POST</a></li>
-        </ul>
+        <a href="#" class="brand-logo beige-text center">BLOG</a>
       </div>
     </nav>
   </body>
